@@ -1,0 +1,7 @@
+- pandas (pip install pandas)
+- nltk (pip install nltk)
+- sklearn (pip install scikit-learn)
+- Fastapi (pip install "fastapi[standard]")
+- uvicorn (pip install uvicorn) [Fastapi]
+- requests (pip install requests)
+- streamlit (pip install streamlit)
