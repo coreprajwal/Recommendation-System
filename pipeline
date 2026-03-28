@@ -13,3 +13,4 @@ new pipeline and changes , added more
 - curated function 
 - connect curated movie with inference pipeline 
 - Started working on ui
+- built api server and connecting js with api
