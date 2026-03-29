@@ -14,3 +14,4 @@ new pipeline and changes , added more
 - connect curated movie with inference pipeline 
 - Started working on ui
 - built api server and connecting js with api
+- bridging ui and back-end 
